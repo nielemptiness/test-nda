@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyKickTestTask.Tests", "SkyKickTestTask.Tests\SkyKickTestTask.Tests.csproj", "{B9881074-9334-4C1A-A1DB-A52D8252C9C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyKickTestTask.Presentation", "SkyKickTestTask.Presentation\SkyKickTestTask.Presentation.csproj", "{3D11FE8E-F2DF-4221-99C7-DC15557D9DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyKickTestTask.Common", "SkyKickTestTask.Common\SkyKickTestTask.Common.csproj", "{4D0D98AC-0ECC-42A1-9336-B86BD19EB39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyKickTestTask.Core", "SkyKickTestTask.Core\SkyKickTestTask.Core.csproj", "{8CA6F5D5-2620-41DA-808B-3CA0CA4B1BB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9881074-9334-4C1A-A1DB-A52D8252C9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9881074-9334-4C1A-A1DB-A52D8252C9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9881074-9334-4C1A-A1DB-A52D8252C9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9881074-9334-4C1A-A1DB-A52D8252C9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D11FE8E-F2DF-4221-99C7-DC15557D9DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D11FE8E-F2DF-4221-99C7-DC15557D9DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D11FE8E-F2DF-4221-99C7-DC15557D9DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D11FE8E-F2DF-4221-99C7-DC15557D9DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D0D98AC-0ECC-42A1-9336-B86BD19EB39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0D98AC-0ECC-42A1-9336-B86BD19EB39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0D98AC-0ECC-42A1-9336-B86BD19EB39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0D98AC-0ECC-42A1-9336-B86BD19EB39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA6F5D5-2620-41DA-808B-3CA0CA4B1BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA6F5D5-2620-41DA-808B-3CA0CA4B1BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA6F5D5-2620-41DA-808B-3CA0CA4B1BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA6F5D5-2620-41DA-808B-3CA0CA4B1BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
